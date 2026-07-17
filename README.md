@@ -141,22 +141,6 @@ Passionate about building scalable software applications, solving algorithmic pr
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ragula-Ajay-Kumar&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ragula-Ajay-Kumar&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragula-Ajay-Kumar&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
