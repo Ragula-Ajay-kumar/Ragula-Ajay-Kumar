@@ -101,7 +101,7 @@ Passionate about building scalable software applications, solving algorithmic pr
 * Developed REST APIs for communication between the application and the machine learning model
 * Implemented real-time product price comparison across multiple e-commerce platforms
 
-### 🎓 CampusHire — Placement Tracking Portal
+### 🎓 TrackFolio - Job Application Tracker
 
 **Technologies:** React, FastAPI, Node.js, PostgreSQL
 
