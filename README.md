@@ -128,9 +128,7 @@ Passionate about building scalable software applications, solving algorithmic pr
 * AI Foundation Certificate
 * Java Basic Certification — HackerRank
 * Python Foundation Certificate — Infosys Springboard
-* Fundamentals of Sustainability & Technology — IBM SkillsBuild
-* HTML and CSS Bootcamp — Let's Upgrade
-
+  
 ---
 
 ## 🎯 Achievements
