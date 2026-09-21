@@ -19,7 +19,7 @@ Passionate about building scalable software applications, solving algorithmic pr
 * 🌱 Currently improving my problem-solving skills and exploring modern development technologies
 * 🚀 Building projects using **Python, React, Node.js, FastAPI, and AI/ML**
 * 💼 Open to **Software Development Internships and Entry-Level Opportunities**
-* ⚡ Solved **300+ problems on LeetCode**
+* ⚡ Solved **350+ problems on LeetCode**
 
 ---
 
