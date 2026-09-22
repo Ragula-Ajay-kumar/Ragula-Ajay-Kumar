@@ -64,7 +64,6 @@ Passionate about building scalable software applications, solving algorithmic pr
 * REST API Development
 * Machine Learning
 * Convolutional Neural Networks
-* OpenCV
 * NumPy
 * pandas
 * scikit-learn
